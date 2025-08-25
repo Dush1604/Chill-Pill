@@ -1,0 +1,9 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"language": "简体中文",
+	"brand_name": "ChillPill",
+	"notifications": "通知",
+	"calendar": "日历",
+	"login": "登录",
+	"greeting_history": "使用此页面查看您的用药历史。"
+}
