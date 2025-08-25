@@ -2,7 +2,7 @@
 
 A medication reminder and calender web application
 
-Created by Jack Koskie, Eric Du, and Dushyant Saini for ICS4U
+Created by Dushyant Saini, Jack Koskie, and Eric Du for ICS4U
 
 ## Features
 
