@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# SvelteKit build output
+.svelte-kit/
+build/
+
+# Vite
+.vite/
+
+# Cloudflare / Wrangler local state
+.wrangler/
+worker-configuration.d.ts
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Local SQLite databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+!.vscode/extensions.json
+.idea/
